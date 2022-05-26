@@ -2,8 +2,10 @@
 Your opponent will be 🐍
 
 A simple rock-paper-scissor game where user faces ```python``` as the opponent.
+>The game requires python terminal
 
 >Instructions will be shown while playing the game. Follow the instructions.
+
 >The game will throw errors if the player chooses any invalid option !
 
 A small demo is shown below:
